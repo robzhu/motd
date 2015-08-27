@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "date-format": "0.0.2",
+    "date-now": "^1.0.1",
     "express": "^4.13.3"
   }
 }
