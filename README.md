@@ -1,0 +1,2 @@
+# motd
+example motd microservice
